@@ -13,8 +13,8 @@ export const COPY = {
   [FIELD_NAMES.favoriteFood]: 'What’s your favorite food?',
   [FIELD_NAMES.loveToDo]: 'What do you LOVE to do?',
   [FIELD_NAMES.messageIf]: 'People should message you if they...',
-  [FIELD_NAMES.music]: 'What’s the last musician or band you got into?',
-  [FIELD_NAMES.bar]: 'What’s your favorite watering hole?',
+  [FIELD_NAMES.music]: 'What’s a recent band you like?',
+  [FIELD_NAMES.bar]: 'What’s your favorite bar?',
 };
 
 export const FIELDS = {
