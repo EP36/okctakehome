@@ -1,4 +1,4 @@
-### Available Scripts
+## Available Scripts
 
 * npm start // run in dev mode
 * npm test // run unit tests
