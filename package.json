@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/inlongform/oktakehome"
+    "url" : "https://github.com/ep36/okctakehome"
   },
   "dependencies": {
     "node-sass": "^4.12.0",
